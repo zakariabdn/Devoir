@@ -1,0 +1,4 @@
+type query {
+    getUserByEmail(email:String): (UserDTO)
+    getUserByDateNaissance(date:String):(UserDTO)
+}

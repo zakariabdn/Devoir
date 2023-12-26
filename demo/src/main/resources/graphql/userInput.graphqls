@@ -1,0 +1,6 @@
+type UserInput {
+    name: String
+    email: String
+    date_Naissance: String
+    password : String
+}

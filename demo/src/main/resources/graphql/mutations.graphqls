@@ -1,0 +1,4 @@
+type mutation {
+    saveUser(user): UserDTO
+    deleteUser(id:ID): UserDTO
+}
